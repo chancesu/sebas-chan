@@ -1,0 +1,13 @@
+{
+  "appId": "com.chancesu.sabaschan",
+  "appName": "sebas-chan",
+  "bundledWebRuntime": false,
+  "npmClient": "yarn",
+  "webDir": "public",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 10000
+    }
+  },
+  "cordova": {}
+}

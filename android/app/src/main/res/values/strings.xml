@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">세바스Chan</string>
+    <string name="title_activity_main">세바스Chan</string>
+    <string name="package_name">com.chancesu.sabaschan</string>
+    <string name="custom_url_scheme">com.chancesu.sabaschan</string>
+</resources>

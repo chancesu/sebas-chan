@@ -1,0 +1,27 @@
+{
+  "name": "sebas-chan",
+  "version": "1.0.0",
+  "description": "냉장고를 관리해 주는 집사 세바스-chan",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chancesu/sebas-chan.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chancesu/sebas-chan/issues"
+  },
+  "homepage": "https://github.com/chancesu/sebas-chan#readme",
+  "devDependencies": {
+    "@capacitor/cli": "^2.4.4",
+    "@capacitor/core": "^2.4.4"
+  },
+  "dependencies": {
+    "@capacitor/android": "2.4.4"
+  }
+}
